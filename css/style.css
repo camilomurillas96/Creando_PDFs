@@ -1,0 +1,59 @@
+h1{
+    text-align: left;
+    font-size: 33px;
+}
+
+h2{
+    color: blue;
+    
+    font-size: 20px;
+}
+table{
+    background-color: gray;
+    size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 400px;
+}
+
+.cuerpo{
+    background: white;
+}
+
+#cajas{
+    width: 100%;
+}
+
+.caja {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background: #ccc;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.u{
+    background: yellow;
+}
+
+.d{
+    background: blue;
+}
+
+.t{
+    background: red;
+}
+
+.c{
+    background: black;
+}
+
+#cabecera img{
+    height: 100px;
+    width: 100px;
+    background-position: center;
+    background-size: cover;
+    float: right;
+    display: flex;
+}
